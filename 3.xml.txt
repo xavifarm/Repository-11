@@ -1,0 +1,2 @@
+L'XML és una adaptació del SGML (Standard Generalized Markup Language), un llenguatge que permet l'organització i l'etiquetatge de documents. Això vol dir que l'XML no és un llenguatge en si mateix, sinó un sistema que permet definir llenguatges d'acord a les necessitats. El XHTML, el MathML i el SVG són alguns dels llenguatges que l'XML té la capacitat de definir.
+És a dir, XML té la capacitat de definir com seran les etiquetes
