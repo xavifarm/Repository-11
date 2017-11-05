@@ -4,7 +4,7 @@
    * **Negrita**
    * _Cursiva_
    * **_Insertar imatges_**
-   * [CREAR ENLLAÇOS](www.rawgit.com)
+   * [CREAR ENLLAÇOS] (www.rawgit.com)
    * [ESPAIS]
       * DURS
       * SUAUS
